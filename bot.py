@@ -37,12 +37,12 @@ last_nap_time = {}
 # ================= TOOLS =================
 
 TOOLS = {
-    "tool1": ("📦 Tool gộp 180 kèm tim", 180000 1tuan),
-    "tool2": ("📈 Tool tương tác", 20000 3day),
-    "tool3": ("🚀 Tool chạy ref", 20000 3day),
-    "tool4": ("💣 Tool spam", 50000 3day),
-    "tool5": ("👑 Tool buff mem", 20000 3day),
-    "tool6": ("🔓 Tool lấy acc, đọc tn .session", 50000 3day)
+    "tool1": ("📦 Tool gộp 180 kèm tim 6day", 200000),
+    "tool2": ("📈 Tool tương tác 3day", 20000),
+    "tool3": ("🚀 Tool chạy ref 3day", 20000),
+    "tool4": ("💣 Tool spam 3day", 50000),
+    "tool5": ("👑 Tool buff mem 3day", 20000),
+    "tool6": ("🔓 Tool lấy acc, đọc tn .session 3day", 50000)
 }
 
 # ================= MENU CHÍNH =================
